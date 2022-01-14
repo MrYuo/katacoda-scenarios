@@ -1,4 +1,4 @@
-## Start HTTP Server
+## Start HTTP Server -- easy
 
 `docker run -p 80:80 -d katacoda/docker-http-server`{{execute}}
 
@@ -6,7 +6,7 @@
 
 `curl localhost`{{execute}}
 
-## Generated Web Link
+## Generated Web Link -- ok 
 
 https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com
 
